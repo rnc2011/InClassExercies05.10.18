@@ -1,8 +1,22 @@
-body{
+body {
     background-color: orange;
+    text-align: center;
+}
+
+.teal {
+    background-color: teal;
 }
 
 .orange {
     color: blueviolet;
     text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+
+p {
+    background-color: black;
+    color: white;
 }
